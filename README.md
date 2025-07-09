@@ -101,7 +101,7 @@ FakeNews-Detection/
 
 Installation & Setup
 Clone the repo
-git clone https://github.com/your-username/fake-news-detection.git
+git clone https://github.com/TharunCR/Fake-News-Detection-for-Cleaner-Social-Media.git
 cd fake-news-detection
 
 
